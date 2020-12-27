@@ -1,0 +1,23 @@
+/* error msg */
+#success_msg{
+    background: #DEF1D8;
+    color: green;
+    padding: 10px;
+    margin: 10px;
+    display: none;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+#error_msg{
+    background: #EFDCDD;
+    color: red;
+    padding: 10px;
+    margin: 10px;
+    display: none;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+/* end of error msg */

@@ -1,0 +1,55 @@
+#tournament-registration-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+#tournament-registration-page .tournament-registration-form{
+	background: linear-gradient(rgba(206, 214, 224,0.8),rgba(223, 228, 234,0.9));
+    padding: 40px 50px;
+    height: 100%;
+    width: 80%;
+    border-radius: 3px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+#tournament-registration-page .tournament-registration-form h2{
+	text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    margin: 20px 0;
+}
+#tournament-registration-page .tournament-registration-form .tournament-register-btn .btn1{
+	border-style: none;
+    border: 2px solid #000;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: transparent;
+    padding: 10px 20px;
+    font-weight: 600;
+    transition: all .5s;
+}
+#tournament-registration-page .tournament-registration-form .tournament-register-btn .btn2{
+	border-style: none;
+    border: 2px solid #ff5e57;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: #ff5e57;
+    padding: 10px 20px;
+    font-weight: 600;
+    transition: all .5s;
+    color: #fff;
+}
+#tournament-registration-page .tournament-registration-form .tournament-register-btn .btn1:hover{
+	border: 2px solid #ff5e57;
+    background-color: #ff5e57;
+    color: #fff;
+}
+
+#tournament-registration-page .tournament-registration-form .tournament-register-btn .btn2:hover{
+	border: 2px solid #000;
+    background-color: transparent;
+    color: #000;
+}

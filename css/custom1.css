@@ -1,0 +1,23 @@
+.profile-box{
+    padding: 50px;
+    background-color: #dfe4ea;
+}
+.profile-data{
+	margin-bottom: 40px;
+}
+.profile-data i{
+	font-size: 24px;
+    margin-right: 20px;
+    color: #ff4757;
+}
+.profile-data p{
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: 1px;
+}
+#profile-page .profile-content .form-data{
+	background-color: #dfe4ea;
+	padding: 50px;
+	font-weight: 500;
+	letter-spacing: 1px;
+}

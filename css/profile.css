@@ -1,0 +1,43 @@
+
+#profile-page .profile-content h2{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 500;
+    background-color: #f53b57;
+    padding: 10px 0;
+    color: #fff;
+    font-size: 20px;
+}
+#profile-page .profile-content .pass-form{
+	height: 100%;
+	width: 100%;
+	background-color: #d2dae2;
+	border-radius: 6px;
+	padding: 20px;
+	font-weight: 400;
+}
+#profile-page .profile-content .pass-form input:nth-child(1){
+	width: 60%;
+}
+#profile-page .profile-content .pass-form input:nth-child(2){
+	width: 60%;
+}
+#profile-page .profile-content .pass-form input:nth-child(3){
+	width: 60%;
+}
+#profile-page .profile-content .pic-content{
+	height: 100%;
+	width: 100%;
+	background-color: #d2dae2;
+	border-radius: 6px;
+	padding: 20px;
+	font-weight: 400;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#profile-page .profile-content .pic-content .image{
+	height: 300px;
+	width: 300px;
+}
