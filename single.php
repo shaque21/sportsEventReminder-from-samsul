@@ -62,5 +62,9 @@ include "header.php";
                 <?php 
 
                 	include "sidebar.php";
-                	include "single-footer.php";
                  ?>
+                 </div>
+        </div>
+    </div>
+    <?php 
+                  include "single-footer.php"; ?>
